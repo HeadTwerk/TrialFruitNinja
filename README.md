@@ -18,7 +18,7 @@ Python comes with a package installer `pip`. We can use this to:\
 _run theses commands in the command prompt or bash of your device_
 
 Install Pygame:  `pip install pygame`\
-Install  random: `pip install random`\
+Install  random: `pip install random`
 ___
 Now you have the requirements to make the specified game.\
 This is a relatively small project but I still recommend and used `pipenv`. It acts as an alternative to `pip` and also
