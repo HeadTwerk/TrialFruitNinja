@@ -7,7 +7,7 @@ basics in a fun way.
 ## Requirements:
 Python installed on your device (Python3 versions) 
 
-The `pygame` and `random` libraries
+The Python `pygame` package
 
 And some images of fruits or else you desire
 ___
@@ -17,7 +17,6 @@ If you don't have Python installed on your device, you can from [here](https://w
 Python comes with a package installer `pip`. We can use this to:\
 _run theses commands in the command prompt or bash of your device_
 
-Install Pygame:  `pip install pygame`\
-Install  random: `pip install random`
+Install Pygame:  `pip install pygame`
 ___
 Now you have the requirements to make the specified game.\
