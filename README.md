@@ -20,3 +20,5 @@ _run theses commands in the command prompt or bash of your device_
 Install Pygame:  `pip install pygame`
 ___
 Now you have the requirements to make the specified game.
+
+Source: https://data-flair.training/blogs/fruit-ninja-game-python/
